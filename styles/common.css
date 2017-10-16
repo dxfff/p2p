@@ -1,0 +1,87 @@
+.com_divAll{
+	width: 100%;
+}
+
+.com_div1200{
+	width: 1000px;
+	margin: 0px auto;
+}
+
+.com_fl{
+	float: left;
+}
+
+.com_fr{
+	float: right;
+}
+
+.com_font12{
+	font-size: 12px;
+}
+
+.com_font14{
+	font-size: 14px;
+}
+
+.com_font16{
+	font-size: 16px;
+}
+
+.com_font18{
+	font-size: 18px;
+}
+
+.com_font20{
+	font-size: 20px;
+}
+
+.com_font24{
+	font-size: 24px;
+}
+
+.com_orangeBg{
+	background: #FF6600;
+}
+
+.com_grayBg{
+	background: #CCCCCC;
+}
+.com_orange{
+	color: #ff6600;
+}
+
+.com_red{
+	color: #f4290d;
+}
+
+.com_gray{
+	color: #a6a6a6;
+}
+
+.com_white{
+	color: white;
+}
+
+.black{
+	background:black;
+}
+.com_marginTop5{
+	margin-top: 5px;
+}
+
+.com_marginTop30{
+	margin-top: 30px;
+}
+
+
+.com_clear{
+	clear: both;
+}
+
+.com_marginLeft20{
+	margin-left: 20px;
+}
+
+.com_marginRight20{
+	margin-left: 30px;
+}
